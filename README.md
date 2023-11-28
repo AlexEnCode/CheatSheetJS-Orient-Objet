@@ -1,5 +1,4 @@
-# Programmation Orientée Objet (POO) en JavaScript - Cheat Sheet
-
+# Programmation Orientée Objet (POO) en JavaScript
 ## Classes et Objets
 
 ### Définition d'une classe
